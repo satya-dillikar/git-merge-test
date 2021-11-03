@@ -1,3 +1,4 @@
 this is some content to mess with
 cotent to append
 totally different content to merge later
+4th line to cause conflict
