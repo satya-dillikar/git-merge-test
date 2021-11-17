@@ -2,5 +2,7 @@ this is some content to mess with
 cotent to append
 totally different content to merge later
 2nd line for merge
+3nd line for merge
 4th line to cause conflict
 5th line from master branch
+6th line for merge
