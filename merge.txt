@@ -5,4 +5,4 @@ totally different content to merge later
 3nd line for merge
 4th line to cause conflict
 5th line from master branch
-6th line for merge
+6th line modified
